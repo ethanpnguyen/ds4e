@@ -1,5 +1,5 @@
 # ds4e
-ME 379M: Data Science For Engineers
+## ME 379M: Data Science For Engineers
 
 **Outline:** This course provides students with the knowledge to analyze and interpret data sets using 
 industry-standard  methodology.  Key  skills  include  learning  how  to  clean,  visualize,  and  perform 
